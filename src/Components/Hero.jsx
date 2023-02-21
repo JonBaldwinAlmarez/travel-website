@@ -12,7 +12,7 @@ function Hero() {
 				<div className="p-4 absolute top-[40%] w-full md:-[50%] max-w-w[600px] h-full flex flex-col text-white">
 					<h1 className="font-bold text-4xl">Your Dream Get away</h1>
 					<h2 className="text-4xl py-4 italic">
-						Here in <span className=" text-cyan-500">Manaklay Beach</span>.
+						Here in <span className=" text-cyan-500">Beach and Resort</span>.
 					</h2>
 					<cite className=" text-xl font-bold italic">
 						- A place where relaxation last.

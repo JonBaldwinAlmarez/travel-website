@@ -25,7 +25,7 @@ function ReservationForm() {
 						<input className=" border rounded-md p-2" type="date"></input>
 					</div>
 				</div>
-				<div className="flex lg:mt-7 flex-col my-2 p-2 w-full lg:w-[30%]">
+				<div className="flex lg:mt-7 flex-col my-2 p-2 w-full lg:w-[30%] hover:scale-105 duration-200">
 					<button>Send Here</button>
 				</div>
 			</form>

@@ -11,7 +11,7 @@ function TopBar() {
 					className=" text-[var(--primary-dark)] mr-2"
 				/>
 				<h1 className=" text-lg font-bold text-gray-800">
-					Manaklay Beach Park And Resort
+					Beach Park And Resort
 				</h1>
 			</div>
 			<div className="flex">
